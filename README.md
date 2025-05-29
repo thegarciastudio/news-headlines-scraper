@@ -57,6 +57,3 @@ Author
 Created by @thegraciastudio 
 
 Creado por @thegraciastudio # news-headlines-scraper
-# news-headlines-scraper
-# news-headlines-scraper
-# news-headlines-scraper
