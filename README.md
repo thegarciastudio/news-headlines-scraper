@@ -54,6 +54,6 @@ MIT License. You’re free to use, modify, and share it.
 Licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
 
 Author
-Created by @thegraciastudio 
+Created by @thegaraciastudio 
 
-Creado por @thegraciastudio # news-headlines-scraper
+Creado por @thegaraciastudio
